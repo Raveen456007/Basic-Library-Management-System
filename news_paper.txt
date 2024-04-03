@@ -1,0 +1,31 @@
+Name - daily mirror
+ISBN - 007
+Year - 2004
+Publisher - mirror pub
+Price - 130.0
+Name - lankadeepa
+ISBN - 008
+Year - 2018
+Publisher - wijaya publications
+Price - 350.0
+Name - News world
+ISBN - 009
+Year - 2022
+Publisher - despto pub
+Price - 120.0
+globe paper
+007
+2019
+xender pub
+100.0
+mastern marki
+news
+nb
+observer
+008
+2016
+krenco pub
+250.0
+balvern martin
+news
+nb

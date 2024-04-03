@@ -1,0 +1,33 @@
+
+Harry potter
+001
+2006
+kevin pub
+560.0
+Rowling
+book
+b
+Diary of a wimpy kid
+002
+2005
+penguin books
+1500.0
+jeff kinny
+book
+nb
+Sherlock homes
+003
+1990
+CM pub
+560.0
+Sir arthur konnen doil
+book
+nb
+gini mada sakmana
+004
+2009
+HSC publications
+690.0
+Diago livera
+book
+b

@@ -1,0 +1,64 @@
+Harry potter
+001
+2006
+kevin pub
+560.0
+Rowling
+book
+b
+Diary of a wimpy kid
+002
+2005
+penguin books
+1500.0
+jeff kinny
+book
+nb
+Sherlock homes
+003
+1990
+CM pub
+560.0
+Sir arthur konnen doil
+book
+nb
+gini mada sakmana
+004
+2009
+HSC publications
+690.0
+Diago livera
+book
+b
+globe paper
+007
+2019
+xender pub
+100.0
+mastern marki
+news
+nb
+observer
+008
+2016
+krenco pub
+250.0
+balvern martin
+news
+nb
+World history
+009
+2008
+tringo pub
+0.0
+Jhoon dinn
+jou
+nb
+new trends in physics
+010
+2000
+CSS pub
+0.0
+Prof.Jayasundara
+jou
+b
